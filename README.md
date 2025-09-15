@@ -1,4 +1,4 @@
-# BacBo Telegram Betting Bot
+# BacBo whatsappBetting Bot
 
 This repository contains a Python-based betting bot for the Bac Bo game that monitors game results, sends Telegram notifications, and uses specific betting strategies to automate bets. The bot integrates with Telegram to provide real-time alerts and updates, including scoreboard details and bet outcomes.
 
